@@ -1,0 +1,14 @@
+Date,Location,Energy_Consumption,Peak_Load,Cooling_Load
+2015-01,Mecca,1800,8000,Medium
+2015-02,Mina,2200,9000,High
+2015-03,Arafat,2600,10000,High
+2015-04,Mina,2300,9500,High
+2015-05,Mecca,2000,8500,Medium
+2016-02,Mina,2400,9200,High
+2017-03,Arafat,2900,10500,High
+2018-03,Arafat,3000,11000,High
+2019-03,Arafat,3200,11500,High
+2020-03,Arafat,300,2000,Low
+2021-03,Arafat,700,3500,Low
+2022-03,Arafat,1500,6500,Medium
+2023-03,Arafat,2000,7800,Medium
